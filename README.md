@@ -1,4 +1,4 @@
 # VinayaSathyanarayana.github.io
-Vinaya's Website
+Vinaya's Github based Website
 
 Full Website coming soon!
